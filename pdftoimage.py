@@ -4,8 +4,8 @@ from pdf2image import convert_from_path
 from PIL import Image
 
 # Folder tempat file PDF berada
-input_folder = r'D:\BOT\convert\pdf'
-output_folder = r'D:\BOT\convert\hasil convert pdf to image\dr. Selvia Gusrina.'
+input_folder = r'()'
+output_folder = r'()'
 
 if not os.path.exists(output_folder):
     os.makedirs(output_folder)
